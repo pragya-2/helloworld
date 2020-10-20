@@ -1,1 +1,1 @@
-print('Hello World! MI CSK Haar jayegi')
+print('Hello World! MI CSK champions')
