@@ -1,1 +1,1 @@
-print('Hello World! MI CSK champions')
+print('Hello World! MI CSK are Noob teams')
